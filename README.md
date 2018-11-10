@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Project Listing Application 
 
 This is the Basic simple Project Listing application where you can add and delete the projects. 
